@@ -1,0 +1,4 @@
+Hello tout le monde !
+Quelques lignes du
+file.txt qui est dans
+le répertoire conrant.
